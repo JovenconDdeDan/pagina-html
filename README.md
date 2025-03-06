@@ -1,1 +1,1 @@
-# Python-example
+# Ejemplo para el profesor
